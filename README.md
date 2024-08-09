@@ -1,3 +1,5 @@
+# Cake Sprinkles Kata 🎂 💖
+
 ### 💡 Plan: 
 - My first idea was a function that takes in a number and lets you know if the number is divisible by another number   
 - I began by setting up my project and planning my kata. I decided to create a function that takes in a number and lets you know if it is divisible by two numbers, or just one, or none at all. This was my MVP, and once I completed this I made sure the test will account for invalid inputs
@@ -9,7 +11,3 @@ You are a cake decorator, and have a very superstitous client. The client wants 
 
 ## ⭐️ Installation 
 - After cloning and navigating to the folder, run 'npm install' to get the dependencies. To run the tests = 'npm run test' 
-
-## 🗣️ User feedback - please fill this in below:
-- Name, date, feeback 
-
